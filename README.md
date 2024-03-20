@@ -1,6 +1,6 @@
 # Sun-Client-2.1.24
 
-![sadf](https://github.com/MageSosa/Sun-Client-2.1.24/assets/163071700/e9a8b6a5-8a0c-42d8-9a48-bcf1f7ab3223)
+![suncd](https://github.com/MageSosa/Sun-Client-2.1.24/assets/163071700/87152b9b-8530-4179-84b9-2ef4dcd4c1c0)
 
 # How to Install:
 
