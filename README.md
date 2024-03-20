@@ -6,8 +6,8 @@
 (You can use Winrar to unzip the file.)
 
 2. Unzip the file and run the Sun Client setup.
-3. 
-4. Wait for install and follow instructions.
+  
+3. Wait for install and follow instructions.
 
 
 
