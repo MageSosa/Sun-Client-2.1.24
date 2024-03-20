@@ -15,6 +15,8 @@
 
 Sun Client for Hypixel
 
+![sun_client_1](https://github.com/MageSosa/Sun-Client-2.1.24/assets/163071700/06eb1fac-14e7-4462-a451-28338fadebe1)
+
 Welcome to Sun Client, your ultimate companion for conquering Hypixel's vast realms with unparalleled efficiency and style. Crafted with precision and dedication, Sun Client is more than just a Minecraft client; it's your key to unlocking the full potential of your Hypixel experience.
 
 Enhanced Gameplay Features:
