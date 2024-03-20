@@ -1,3 +1,5 @@
+![sunc](https://github.com/MageSosa/Sun-Client-2.1.24/assets/163071700/0a4de040-f26f-4309-a26f-fb6144fcc349)
+
 # Sun-Client-2.1.24
 
 # How to Install:
@@ -6,7 +8,7 @@
 (You can use Winrar to unzip the file.)
 
 2. Unzip the file and run the Sun Client setup.
-  
+
 3. Wait for install and follow instructions.
 
 
